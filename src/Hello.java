@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("third");
 		System.out.println("fourth");
 		System.out.println("FIFth");
+		System.out.println("Sixth from intellj");
 	}
 }
